@@ -1,26 +1,26 @@
 [
     {
       "id": "01",
-      "name": "C#"
+      "name": "Computer Science"
     },
     {
       "id": "02",
-      "name": "Python"
+      "name": "Information Technology"
     },
     {
       "id": "03",
-      "name": "Java"
+      "name": "Programming Languages"
     },
     {
       "id": "04",
-      "name": "Java Script"
+      "name": "Web Technology"
     },
     {
       "id": "05",
-      "name": "React"
+      "name": "Artificial Intelligence"
     },
     {
       "id": "06",
-      "name": "AI"
+      "name": "Internet Of Things"
     }
   ]
